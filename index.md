@@ -5,15 +5,11 @@ lang: zh-tw
 
 ## About Stan Shih
 
-**史登宇**
+### 史登宇
 
-E-mail: loverain97620@gmail.com
- 
 <img src="https://s.gravatar.com/avatar/83f013b3c638ab21853a473eb88394cc?s=160" style="width:300px; height:300px; border-radius:50%; " />
 
-<br>
-<br>
-<br>
+### E-mail: loverain97620@gmail.com
 
 <a href="https://tw.linkedin.com/in/deng-yu-shih"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo.svg" style="width:200px; height:60px;"></a>
 
