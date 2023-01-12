@@ -13,13 +13,11 @@ lang: zh-tw
 
 <a href="https://www.linkedin.com/in/stanshih"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" alt="LinkedIn Logo.svg" style="width:200px; height:60px;"></a>
 
-[https://www.linkedin.com/in/stanshih][1]
-
 [1]: https://www.linkedin.com/in/stanshih
 
 ### Project
 
-請參考我的[LinkIn][1]
+請參考[https://www.linkedin.com/in/stanshih][1]
 
 ### Experience
 
