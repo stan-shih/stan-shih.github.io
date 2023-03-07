@@ -25,6 +25,7 @@ lang: zh-tw
 | ESUN NBS2.0 | 2021 | 2023 |
 | ESUN NBS1.0 downsizing | 2023 |
 
+
 詳細說明請參考[https://www.linkedin.com/in/stanshih][1]
 
 ### Experience
