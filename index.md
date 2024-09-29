@@ -19,11 +19,11 @@ lang: zh-tw
 
 | 專案 | 開始年份 | 上線年份 |
 | :- | :-: | :-: |
-| TFB NBTS | 2015 | 2017 |
-| TFB NBTS Phase II | 2017 | 2020 |
+| TFB NBTS | 2015 | 2016/12 |
+| TFB NBTS Phase II | 2017 | 2020/10 |
 | CUB eTabs | 2021 | 2022 |
-| ESUN NBS2.0 | 2021 | 2023 |
-| ESUN NBS1.0 downsizing | 2023 |
+| ESUN NBS2.0 | 2021 | 2023/03 |
+| ESUN NBS1.0 downsizing | 2023 | 2024/08 |
 
 
 詳細說明請參考[https://www.linkedin.com/in/stanshih][1]
