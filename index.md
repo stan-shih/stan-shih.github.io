@@ -5,7 +5,7 @@ lang: zh-tw
 
 ## About Stan Shih 史登宇
 
-<img src="https://gravatar.com/avatar/dfa021f572495468d846b1d97c69255d81625291a203ef9b1bb757cb2ba5e3ee" style="width:300px; height:300px; border-radius:50%; " />
+<img src="https://gravatar.com/avatar/dfa021f572495468d846b1d97c69255d81625291a203ef9b1bb757cb2ba5e3ee?s=600" style="width:300px; height:300px; border-radius:50%; " />
 
 ### E-mail: loverain97620@gmail.com
 
