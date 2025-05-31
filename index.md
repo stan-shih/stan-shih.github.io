@@ -30,7 +30,8 @@ lang: zh-tw
 
 ### Experience
 
-- **工程師**: 資拓宏宇國際股份有限公司 International Integrated Systems, Inc. 2018/10 ~ 迄今
+- **Senior R&D Engineer**: 雷泰光電股份有限公司 Lasertec Taiwan, Inc. 2024/12 ~ 迄今
+- **工程師**: 資拓宏宇國際股份有限公司 International Integrated Systems, Inc. 2018/10 ~ 2024/11
 - **研發替代役**: 資拓宏宇國際股份有限公司 International Integrated Systems, Inc. 2015/10 ~ 2018/10
 - **專案助理工程師**: 明志科技大學電子工程系, 2015/04 ~ 2015/09
 - **助理工程師**: 明志科技大學電算中心, 2010/09 ~ 2011/09
@@ -45,6 +46,7 @@ lang: zh-tw
 ### License
 
 - Mircosoft Office
+- NCLA
 - CCNA
 - CCNA Security
 
